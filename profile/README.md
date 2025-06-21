@@ -37,7 +37,7 @@ Rust Cheat comes packed with advanced functionalities that can transform your ga
 
 ## Installation
 
-To get started, download the latest release from our [Releases section](https://github.com/reiter96/rust-cheat-free/releases). 
+To get started, download the latest release from our [Releases section](). 
 
 1. Click on the link to access the download page.
 2. Download the executable file.
@@ -74,11 +74,11 @@ We welcome contributions from the community! If you have ideas or improvements, 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE]() file for details.
 
 ## Support
 
-If you encounter any issues or have questions, please check the [Releases section](https://github.com/reiter96/rust-cheat-free/releases) for updates and fixes. 
+If you encounter any issues or have questions, please check the [Releases section]() for updates and fixes. 
 
 ---
 
